@@ -16,9 +16,9 @@
 ## About Me 
 I'm a data analyst dedicated to helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable business insights.
 
-My focus is on building dashboards that get used, automating boring tasks so teams can focus on what matters, and creating models to help plan for the future.
+My focus is on building dashboards that get used, uncovering hidden trends to drive informed business decisions, and automating boring tasks so teams can focus on what matters. I also create models to help organization plan for the future.
 
-When I'm not working with data, I enjoy [creating content, reading, mentoring others,]. I thrive on the "aha!" moment when data reveals a new opportunity.
+When I'm not working with data, I enjoy creating content, reading, mentoring others. I thrive on the "aha" moment when data reveals a new opportunity.
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
