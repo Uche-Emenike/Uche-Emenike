@@ -8,7 +8,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Fintech+Data+Analyst" alt="Typing SVG" />
 </div>
 
 
@@ -18,8 +18,7 @@ I'm a data analyst dedicated to helping businesses make sense of their data. I e
 
 My focus is on building dashboards that get used, uncovering hidden trends to drive informed business decisions, and automating boring tasks so teams can focus on what matters. I also create models to help organization plan for the future.
 
-When I'm not working with data, I enjoy creating content, reading, mentoring others. I thrive on the "aha" moment when data reveals a new opportunity.
-
+When I'm not working with data, I enjoy creating content, reading, mentoring others.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [My Portfolio Website](https://your-username.github.io/)
