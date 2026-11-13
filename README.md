@@ -3,7 +3,7 @@
   <a href="https://linkedin.com/in/uche-emenike"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:emenikeucdelia.com,deliatheanalyst@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-  <a href="https://tiktok.com/@deliathedataanalyst"><img src="https://<FontAwesomeIcon :icon="byPrefixAndName.fab['tiktok']" /></a>
+  <a href="https://tiktok.com/@deliathedataanalyst"><img src="https://<icon="byPrefixAndName.fab['tiktok']" /></a>
 </p>
 
 <div align="center">
